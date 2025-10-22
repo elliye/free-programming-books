@@ -248,6 +248,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Introduction To Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Raphaël Amiard, Gustavo A. Hoffmann (HTML, PDF, EPUB)
 * [Introduction To SPARK](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html) - Yannick Moy, Ben Brosgol (HTML, PDF, EPUB)
 * [The Big Online Book of Linux Ada Programming](https://www.pegasoft.ca/resources/boblap/book.html) - Ken O. Burtch (HTML)
+* [Visual Basic Essentials]([https://www.pegasoft.ca/resources/boblap/book.html](https://www.techotopia.com/index.php/Visual_Basic_Essentials)) - Neil Smyth
 
 
 ### Agda
