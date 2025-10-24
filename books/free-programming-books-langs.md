@@ -480,6 +480,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
+* [Today's TBB: C++ Parallel Programming with Threading Building Blocks]([https://www.avabodh.com/cin/cin.html](https://link.springer.com/book/10.1007/979-8-8688-1270-5)) - Michael Voss, James Reinders 
+* 
 
 
 ### <a id="csharp"></a>C\#
